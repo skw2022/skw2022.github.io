@@ -104,7 +104,7 @@ adb shell input text "[https://www.xxx.com](https://www.xxx.com/)"
 
 2022/2/22
 
-**adb下载安装及使用****Dongs丶的博客\-CSDN博客****adb安�**�
+**adb下载安装及使用****Dongs丶的博客\-CSDN博客****adb安裪*
 
 <span style="background-color: #ffaaaa">**【安卓TV的主屏界面】**</span>
 
@@ -184,7 +184,7 @@ YouTube for Fire TV 1.110.0 apkmirror 上有，SmartTubeNext 也不錯，可以�
 
 3,或者从Fire TV提取的版本（[https://wws.lanzoui.com/b02ofzujg](https://wws.lanzoui.com/b02ofzujg)   密码:fvar 火棒提取版，可以登录，可以4K）；YouTuBe也是可以安装并正常运行（登录需要gms，所以这里推荐索尼电视用户使用火棒178版本，高于178版本也不能用了，需要亚马逊组件支持）谷歌搜 YouTube for Fire TV APK，【YouTube for Fire TV 1.5.228.0 此版本登录闪退】【另一个版本比较好，查看一下版本，有广告】
 
-4,或者另一种改版的，**（SmartTubeNext�**�[https://smartyoutubetv.github.io/](https://smartyoutubetv.github.io/) 4K支持，在没有 Google 服务的情况下运行）
+4,或者另一种改版的，**（SmartTubeNextª* [https://smartyoutubetv.github.io/](https://smartyoutubetv.github.io/) 4K支持，在没有 Google 服务的情况下运行）
 
 <span style="background-color: #ffaaaa">**问：什么是 SmartYouTubeTV \(SYTV\)？有什么区别？**</span>
 
@@ -228,7 +228,7 @@ PRO = 4K吗？1080 = 精简版？可以肯定地说 PRO 现在意味着 Exoplaye
 
 2022/2/22
 
-**如何在 Fire TV 上观看 Youtube | 火棒安�**�
+**如何在 Fire TV 上观看 Youtube | 火棒安裪*
 
 [https://mytruemedia.com/best\-firestick\-apps/how\-to\-watch\-youtube\-on\-fire\-tv\-firestick/](https://mytruemedia.com/best-firestick-apps/how-to-watch-youtube-on-fire-tv-firestick/)
 
@@ -290,7 +290,7 @@ Netflix \(Android TV\) 8.3.2 build 4580 → 【APK】 → 【download APK】→�
 
 2022/2/21
 
-**FireTV Stick 4K的火棒�**�**GitHub \- openwrt166/firetv: Firetv**
+**FireTV Stick 4K的火棒ª* **GitHub \- openwrt166/firetv: Firetv**
 
 [https://github.com/openwrt166/firetv](https://github.com/openwrt166/firetv)
 
